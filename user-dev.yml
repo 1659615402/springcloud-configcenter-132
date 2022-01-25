@@ -10,7 +10,7 @@ spring:
   datasource:
     #driver-class-name: com.mysql.cj.jdbc.Driver
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.15.140:3306/jsd21132?use SSL=false&characterEncoding=utf-8
+    url: jdbc:mysql://192.168.15.140:3307/jsd21132?use SSL=false&characterEncoding=utf-8
     username: root
     password: 123456
   #声明jpa实施正向工程
